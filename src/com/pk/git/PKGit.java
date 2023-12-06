@@ -6,6 +6,7 @@ public class PKGit {
 		
 		System.out.println("display 1");
 		System.out.println("display 2");
+		System.out.println("display 3");
 
 	}
 }
