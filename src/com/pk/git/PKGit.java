@@ -10,6 +10,7 @@ public class PKGit {
 		System.out.println("display 5");
 		System.out.println("display 6");
 		System.out.println("display 8");
+		System.out.println("display 7");
 
 
 	}
